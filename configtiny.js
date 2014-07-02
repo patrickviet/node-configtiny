@@ -3,6 +3,9 @@
 // http://cpansearch.perl.org/src/ADAMK/Config-Tiny-2.14/lib/Config/Tiny.pm
 // --------------------------------------------------------------------------
 //
+// Patrick Viet (patrick.viet@gmail.com) 2013
+// https://github.com/patrickviet/node-configtiny/
+//
 // usage : put in node_modules/ directory, then
 // var configtiny = require('configtiny');
 // var conf = configtiny.read_file('path/to/ini_file');
